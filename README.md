@@ -1,4 +1,5 @@
 # EmojiRecognition
+This code helps you to recognize and classify different emojis. As of now, we are only supporting hand emojis.
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
 
